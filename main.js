@@ -1,4 +1,4 @@
 // adding angular
 function () {
-	console.log("hello something");
+	console.log("hello");
 }
